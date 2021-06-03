@@ -1,4 +1,4 @@
-# JavaScript is what I want to master. 
+# Aspiring Game and App Developer
 My 'Most Used Languages' card is a bit inaccurate. Feel free to browse my repos :) 
 
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccpaco)](https://github.com/anuraghazra/github-readme-stats)
