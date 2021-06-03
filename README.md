@@ -6,8 +6,7 @@
 **ccpaco/ccpaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
+At a Glance : 
 - 🔭 I’m currently working on several projects  
 - 🌱 I’m currently learning C#, JavaScript, and Machine Learning
 - 👯 I’m looking to collaborate on anything that challenges Climate Change and improves UX and happiness!
