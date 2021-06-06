@@ -1,5 +1,5 @@
 # Aspiring Game and App Developer
-My 'Most Used Languages' card is a bit inaccurate. Feel free to browse my repos :) 
+My 'Most Used Languages' card is a bit inaccurate, most of my work here is in C# or JavaScript. Feel free to browse my repos :) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccpaco)](https://github.com/anuraghazra/github-readme-stats)
 [![Chris's GitHub stats](https://github-readme-stats.vercel.app/api?username=ccpaco)](https://github.com/anuraghazra/github-readme-stats)
