@@ -10,8 +10,8 @@ My 'Most Used Languages' card is a bit inaccurate, most of my work here is in C#
 
 At a Glance : 
 - 🔭 I’m currently working on several projects  
-- 🌱 I’m currently learning C#, JavaScript, and Machine Learning
-- 👯 I’m looking to collaborate on anything that challenges Climate Change and improves UX and happiness!
+- 🌱 Mainly growing in C#, JavaScript, and Python. And Machine Learning!
+- 👯 I’m looking to collaborate on anything that challenges Climate Change and improves UX and happiness for people. 
 - 🤔 I’m looking for help with starting my career as a Full Stack Developer
 - ⚡ Fun fact: I play multiple instruments and have been a musician for 10+ years!
 
