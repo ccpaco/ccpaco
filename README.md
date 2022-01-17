@@ -9,9 +9,9 @@ My 'Most Used Languages' card is a bit inaccurate, most of my work here is in C#
 -->
 
 At a Glance : 
-- 🔭 I’m currently working on several projects  
+- 🔭 I’m currently enrolled in Google's UX/UI Coursera course (Jan 2022 - June 2022) and trying to learn MERN stack in my spare time.  
 - 🌱 Mainly growing in C#, JavaScript, and Python. And Machine Learning!
-- 👯 I’m looking to collaborate on anything that challenges Climate Change and improves UX and happiness for people. 
-- 🤔 I’m looking for help with starting my career as a Full Stack Developer
+- 👯 I’m looking to collaborate on anything worthwhile. Need to find an open source project to support. 
+- 🤔 Currently an Analyst/Programmer (aka Fullstack Developer) with the State of Alaska
 - ⚡ Fun fact: I play multiple instruments and have been a musician for 10+ years!
 
