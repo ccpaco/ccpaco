@@ -10,9 +10,8 @@ I am also coding everyday and contributing to private projects, so don't let the
 -->
 
 At a Glance : 
-- 🔭 Trying to learn MERN stack in my spare time. Machine Learning and art generation are fascinating subjects to me.  
-- 🌱 Mainly growing in C#, JavaScript, and Python. 
-- 👯 Need to find an open source project to support. 
-- 🤔 Currently an Analyst/Programmer (aka Fullstack Developer) with the State of Alaska
+- 🔭 .NET developer by day, musician and book-reader by night.
+- 🌱 Currently learning Svelte and Supabase. Fascinated by Machine Learning and AI Generated art. 
+- 🤔 Currently an Analyst/Programmer 2 (aka Fullstack Developer) with the State of Alaska - Department of Natural Resources
 - ⚡ Fun fact: I play multiple instruments and have been a musician for 10+ years. 
 
