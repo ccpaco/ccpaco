@@ -10,8 +10,8 @@ I am also coding everyday and contributing to private projects, so don't let the
 -->
 
 At a Glance : 
-- 🔭 .NET developer by day, musician and book-reader by night.
-- 🌱 Currently learning Svelte and Supabase. Fascinated by Machine Learning and AI Generated art. 
-- 🤔 Currently an Analyst/Programmer 2 (aka Fullstack Developer) with the State of Alaska - Department of Natural Resources
+- 🔭 C# developer by day, musician by night.
+- 🌱 Currently working with .NET Core, Blazor and SQL Server. Fascinated by Machine Learning and AI Generated art. 
+- 🤔 Analyst/Programmer 2 (aka Fullstack Developer) with the State of Alaska - Department of Natural Resources
 - ⚡ Fun fact: I play multiple instruments and have been a musician for 10+ years. 
 
