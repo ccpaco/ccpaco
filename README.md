@@ -1,4 +1,4 @@
-I like figuring out how things work and sketching out how and application will look and feel. My favorite thing about coding is how it helps me combine creativity with logical problem solving. 
+I love understanding how things work and sketching out app ideas and user flows. My favorite thing about coding is how it combines creativity, logical problem solving, and creates tools that make life easier! 
 
 Forever reading books, grilling Steaks and playing guitar. 
 
