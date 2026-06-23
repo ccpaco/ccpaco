@@ -8,6 +8,7 @@ Forever reading a hodge-podge of books, grilling Steak and playing guitar.
 
 At a Glance : 
 - 🔭 .NET developer by day, musician by night.
-- 🌱 Current stack is .NET Core, Blazor and SQL Server. Fascinated by Machine Learning and AI Generated art. 
-- 🤔 Analyst/Programmer 3 (basically Fullstack Developer) with the State of Alaska - Department of Natural Resources
-- ⚡ Fun fact: I play multiple instruments and have been a musician for 10+ years. 
+- 🌱 Current stack is .NET Core, Blazor and SQL Server. Leveraging A.I. Agents, Skills, and Instructions to sharpen my senses and fundamentals as a Software Developer. 
+- 🤔 Analyst/Programmer 3 (basically a Fullstack Developer) with the State of Alaska - Department of Natural Resources
+- ⚡ Fun fact: I play multiple instruments and have been a musician for nearly 20 years.
+- 🎣 Always fishing for the next breakthrough in tech; I love watching content from different Dev conferences every year.
